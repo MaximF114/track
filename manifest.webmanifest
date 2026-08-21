@@ -1,0 +1,17 @@
+{
+  "name": "Controlling 73709 — Lernkonsole",
+  "short_name": "Controlling",
+  "description": "Lern- und Übungskonsole für Einführung ins Controlling: neun Kapitel, Formelblatt, Karteikarten mit Wiederholungsintervallen, Klausursimulation.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#E3E8EA",
+  "theme_color": "#132029",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
